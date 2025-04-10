@@ -24,10 +24,8 @@ That's it! No build process or server setup required.
 
 ## Usage
 
-1. Enter your target date and time
-2. Add an optional event title
-3. Click "Start"
-4. Share your countdown with others using the generated link
+1. Enter your target time
+2. Click "Start"
 
 ## Customization
 
