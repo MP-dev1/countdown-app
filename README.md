@@ -15,7 +15,7 @@ A sleek, user-friendly countdown timer built with HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/countdown-app.git
+   git clone https://github.com/MP-dev1/countdown-app.git
    ```
 
 2. Open `index.html` in your browser.
